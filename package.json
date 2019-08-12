@@ -1,0 +1,42 @@
+{
+  "name": "BMFPartner",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "16.6.3",
+    "react-native": "0.58.1",
+    "react-native-autogrow-textinput": "^5.2.0",
+    "react-native-camera": "^1.10.0",
+    "react-native-confirmation-code-input": "^1.0.4",
+    "react-native-display": "^1.0.8",
+    "react-native-firebase": "^5.2.1",
+    "react-native-fs": "^2.13.3",
+    "react-native-gesture-handler": "^1.0.15",
+    "react-native-loader": "^1.2.1",
+    "react-native-modal": "^7.0.2",
+    "react-native-push-notification": "^3.1.2",
+    "react-native-sound": "^0.10.12",
+    "react-native-vector-icons": "^6.2.0",
+    "react-navigation": "^3.0.9",
+    "rn-slider-switch": "0.0.3"
+  },
+  "devDependencies": {
+    "react-native-scripts": "^2.0.1",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "24.0.0",
+    "jest": "24.0.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

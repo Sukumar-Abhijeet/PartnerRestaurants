@@ -1,0 +1,9 @@
+{
+  "name": "BMFPartner",
+  "displayName": "BringMyFood Partner",
+  "android": {
+    "package": "in.bringmyfood.partner",
+    "versionCode": 2,
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=in.bringmyfood.partner"
+  }
+}
